@@ -1,18 +1,74 @@
 [
     {
-        "ISBN": 1615,
-        "Titulo": "lordefa",
-        "val": 165
+        "ISBN": "978-84-376-0494-7",
+        "Título": "Cien años de soledad",
+        "Autor": "Gabriel García Márquez",
+        "Peso": 0.5,
+        "Valor": 45000,
+        "Cantidad": 3,
+        "Cantidad_presente": 3
     },
     {
-        "ISBN": 1617,
-        "Titulo": "lora",
-        "val": 168
+        "ISBN": "978-84-376-0495-4",
+        "Título": "El amor en los tiempos del cólera",
+        "Autor": "Gabriel García Márquez",
+        "Peso": 0.6,
+        "Valor": 42000,
+        "Cantidad": 2,
+        "Cantidad_presente": 2
     },
     {
-        "ISBN": 16,
-        "Titulo": "pitbull",
-        "val": 165
+        "ISBN": "978-84-376-0123-6",
+        "Título": "Don Quijote de la Mancha",
+        "Autor": "Miguel de Cervantes",
+        "Peso": 1.2,
+        "Valor": 55000,
+        "Cantidad": 4,
+        "Cantidad_presente": 4
+    },
+    {
+        "ISBN": "978-84-376-0456-5",
+        "Título": "La Odisea",
+        "Autor": "Homero",
+        "Peso": 0.8,
+        "Valor": 38000,
+        "Cantidad": 2,
+        "Cantidad_presente": 2
+    },
+    {
+        "ISBN": "978-84-376-0789-1",
+        "Título": "1984",
+        "Autor": "George Orwell",
+        "Peso": 0.7,
+        "Valor": 40000,
+        "Cantidad": 3,
+        "Cantidad_presente": 3
+    },
+    {
+        "ISBN": "978-84-376-0124-3",
+        "Título": "El Principito",
+        "Autor": "Antoine de Saint-Exupéry",
+        "Peso": 0.3,
+        "Valor": 25000,
+        "Cantidad": 5,
+        "Cantidad_presente": 5
+    },
+    {
+        "ISBN": "978-84-376-0567-8",
+        "Título": "Crimen y Castigo",
+        "Autor": "Fiódor Dostoyevski",
+        "Peso": 1.1,
+        "Valor": 48000,
+        "Cantidad": 2,
+        "Cantidad_presente": 2
+    },
+    {
+        "ISBN": "978-84-376-0890-2",
+        "Título": "Orgullo y Prejuicio",
+        "Autor": "Jane Austen",
+        "Peso": 0.9,
+        "Valor": 35000,
+        "Cantidad": 3,
+        "Cantidad_presente": 3
     }
-
 ]
